@@ -20,3 +20,4 @@ while True:
                     pygame.draw.rect(screen, (255,0,0), (100, 10+10*x, 100 , 100))
                     pygame.display.flip() # pygame.quit()
                     x=x+1
+    
